@@ -1,0 +1,1 @@
+/usr/bin/c++    -ggdb -Wall   CMakeFiles/client.dir/client.cpp.o CMakeFiles/client.dir/mpool.cpp.o  -o ../bin/client  -L/home/usrc/external/ACE_wrappers/lib -rdynamic -lACE -Wl,-rpath,/home/usrc/external/ACE_wrappers/lib 

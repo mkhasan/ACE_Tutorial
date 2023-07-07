@@ -1,0 +1,36 @@
+
+(3529|140536337201024| 09:40:44.736850)	Testing condition_ != 5
+(3529|140536161761024| 09:40:46.738251)	Test::svc() befor modify, condition_ is:  0
+(3529|140536161761024| 09:40:46.738333)	Test::svc() after modify, condition_ is:  1
+(3529|140536295581440| 09:40:48.737728)	Test::svc() befor modify, condition_ is:  1
+(3529|140536295581440| 09:40:48.737830)	Test::svc() after modify, condition_ is:  2
+(3529|140536303974144| 09:40:48.737734)	Test::svc() befor modify, condition_ is:  1
+(3529|140536303974144| 09:40:48.737925)	Test::svc() after modify, condition_ is:  3
+(3529|140536312366848| 09:40:49.737708)	Test::svc() befor modify, condition_ is:  3
+(3529|140536312366848| 09:40:49.737795)	Test::svc() after modify, condition_ is:  4
+(3529|140536287188736| 09:40:50.738161)	Test::svc() befor modify, condition_ is:  4
+(3529|140536287188736| 09:40:50.738247)	Test::svc() after modify, condition_ is:  5
+(3529|140536312366848| 09:40:50.738277)	Test::svc() leaving.
+(3529|140536287188736| 09:40:50.738278)	Test::svc() leaving.
+(3529|140536161761024| 09:40:50.738345)	Test::svc() leaving.
+(3529|140536303974144| 09:40:50.738370)	Test::svc() leaving.
+(3529|140536295581440| 09:40:50.738524)	Test::svc() leaving.
+
+(3529|140536337201024| 09:40:50.739273)	Testing condition_ >= 5
+(3529|140536312366848| 09:40:52.739583)	Test::svc() befor modify, condition_ is:  9
+(3529|140536312366848| 09:40:52.739637)	Test::svc() after modify, condition_ is:  8
+(3529|140536303974144| 09:40:54.739577)	Test::svc() befor modify, condition_ is:  8
+(3529|140536303974144| 09:40:54.739643)	Test::svc() after modify, condition_ is:  7
+(3529|140536295581440| 09:40:55.739603)	Test::svc() befor modify, condition_ is:  7
+(3529|140536295581440| 09:40:55.739670)	Test::svc() after modify, condition_ is:  6
+(3529|140536278796032| 09:40:55.739738)	Test::svc() befor modify, condition_ is:  7
+(3529|140536278796032| 09:40:55.739808)	Test::svc() after modify, condition_ is:  5
+(3529|140536287188736| 09:40:56.739599)	Test::svc() befor modify, condition_ is:  5
+(3529|140536287188736| 09:40:56.739662)	Test::svc() after modify, condition_ is:  4
+(3529|140536287188736| 09:40:56.739681)	Test::svc() leaving.
+(3529|140536278796032| 09:40:56.739733)	Test::svc() leaving.
+(3529|140536303974144| 09:40:56.739816)	Test::svc() leaving.
+(3529|140536295581440| 09:40:56.739823)	Test::svc() leaving.
+(3529|140536312366848| 09:40:56.739823)	Test::svc() leaving.
+
+(3529|140536337201024| 09:40:56.740122)	Testing condition_ <= 5

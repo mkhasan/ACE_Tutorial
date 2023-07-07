@@ -1,0 +1,5 @@
+In file included from message_queue.cpp:6:0:
+task.h:39:3: error: ‘ACE_Barrier’ does not name a type
+   ACE_Barrier barrier_;
+   ^
+make: *** [.obj/message_queue.o] Error 1

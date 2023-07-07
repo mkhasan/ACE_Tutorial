@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/client2.dir/client2.cpp.o CMakeFiles/client2.dir/shmem.cpp.o  -o ../bin/client2  -L/home/usrc/external/ACE_wrappers/lib -rdynamic -lACE -Wl,-rpath,/home/usrc/external/ACE_wrappers/lib 
